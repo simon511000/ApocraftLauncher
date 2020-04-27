@@ -1,6 +1,6 @@
 {
   "name": "apocraftlauncher",
-  "version": "1.7.0",
+  "version": "1.0.0",
   "productName": "Apocraft Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Oatox_",
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/simon511000/ApocraftLauncher.git"
   }
 }
